@@ -1,2 +1,0 @@
-2024-12-11T09:56:04.864+05:30  INFO 30144 --- [currency-conversion-service] [SpringApplicationShutdownHook] [                                                 ] o.s.b.w.embedded.netty.GracefulShutdown  : Commencing graceful shutdown. Waiting for active requests to complete
-2024-12-11T09:56:04.982+05:30  INFO 30144 --- [currency-conversion-service] [netty-shutdown] [                                                 ] o.s.b.w.embedded.netty.GracefulShutdown  : Graceful shutdown complete
